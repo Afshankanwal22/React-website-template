@@ -7,7 +7,8 @@ const Section = () => {
         
         {/* Left Content */}
         <div>
-          <span className="text-sm text-teal-500 font-semibold uppercase">
+           <span className="inline-block text-cyan-600 font-semibold uppercase text-sm tracking-wide 
+        border border-cyan-200 rounded-full px-4 py-2 bg-[#effeff]">
             Our Promise
           </span>
 
@@ -23,9 +24,7 @@ const Section = () => {
           <p className="text-gray-600 mt-3 leading-relaxed">
             Circle has 100+ integrations with tools you already use and love.
           </p>
-
-          <button className="mt-6 bg-[#0cbbc7] text-white px-6 py-3 rounded-lg font-medium hover:bg-teal-600 transition">
-            Get started free
+ <button className="mt-10 bg-cyan-600 text-white px-8 py-3 rounded-md font-semibold hover:bg-cyan-700 transition shadow-lg">            Get started free
           </button>
         </div>
 

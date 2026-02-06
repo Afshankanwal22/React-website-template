@@ -20,7 +20,8 @@ export default function Resources() {
   return (
     <section className="bg-[#EFFFFD] py-24">
       <div className="text-center mb-16">
-        <span className="text-cyan-600 text-sm font-semibold uppercase tracking-wide">
+         <span className="inline-block text-cyan-600 font-semibold uppercase text-sm tracking-wide 
+        border border-cyan-200 rounded-full px-4 py-2 bg-[#effeff]">
           Resources
         </span>
         <h2 className="mt-4 text-3xl font-bold text-gray-900">

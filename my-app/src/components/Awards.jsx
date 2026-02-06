@@ -36,7 +36,8 @@ export default function Awards() {
     <section className="py-24 px-4 bg-white text-center">
       
       {/* Small label */}
-      <span className="text-cyan-600 text-sm font-semibold uppercase tracking-wide">
+      <span className="inline-block text-cyan-600 font-semibold uppercase text-sm tracking-wide 
+        border border-cyan-200 rounded-full px-4 py-2 bg-[#effeff]">
         Awards
       </span>
 

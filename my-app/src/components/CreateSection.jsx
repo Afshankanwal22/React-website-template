@@ -4,7 +4,8 @@ export default function CreateSection() {
       
       {/* Top Heading */}
       <div className="text-center max-w-3xl mx-auto mb-16">
-        <span className="text-cyan-600 text-sm font-semibold uppercase tracking-wide">
+         <span className="inline-block text-cyan-600 font-semibold uppercase text-sm tracking-wide 
+        border border-cyan-200 rounded-full px-4 py-2 bg-[#effeff]">
           Built for people
         </span>
         <h2 className="mt-4 text-3xl md:text-4xl font-bold text-gray-900">
@@ -40,8 +41,7 @@ export default function CreateSection() {
             integration.
           </p>
 
-          <button className="bg-cyan-600 text-white px-6 py-3 rounded-md font-semibold hover:bg-cyan-700 transition">
-            Get started for free
+ <button className="mt-10 bg-cyan-600 text-white px-8 py-3 rounded-md font-semibold hover:bg-cyan-700 transition shadow-lg">            Get started for free
           </button>
         </div>
 
