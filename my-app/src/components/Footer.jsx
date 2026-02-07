@@ -8,7 +8,7 @@ export default function Footer() {
 
           {/* Logo / Left */}
           <div>
-            <img src="/map.png" alt="map" className="w-32 mb-4" />
+            <img src="/logo.png" alt="map" className="w-32 mb-4" />
             <p className="text-sm">
               Made with lots of ❤️ in San Francisco
             </p>
